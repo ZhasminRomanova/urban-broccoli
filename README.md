@@ -3,67 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Личная страница студента</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .header h1 {
-            font-size: 2em;
-            margin: 0;
-        }
-        .photo {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .photo img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 2px solid #333;
-        }
-        .bio {
-            margin-bottom: 20px;
-        }
-        .hobbies ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .hobbies li {
-            background-color: #e4e4e4;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .contact {
-            margin-top: 20px;
-        }
-        .contact p {
-            margin: 5px 0;
-        }
-        .contact a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        .contact a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
